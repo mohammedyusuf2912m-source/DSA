@@ -1,2 +1,3 @@
 # DSA
-My data structures and algorithms implementations in C
+My data structures implementations in C
+hey hey hey
